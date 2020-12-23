@@ -1,11 +1,4 @@
-Readme Document for INF 133 Final Project
-Authors: Ryan La (10601017, lar1@uci.edu), Nathaniel Pham (14787324, thiendp@uci.edu), Tyler Matsunami (45316796, tkmatsun@uci.edu)
-
-*******************************************************************************
-A better formatted readme is also included in our submission
-Please check readme.pdf for more detailed run instructions (images included).
-Thank you!
-*******************************************************************************
+By: Ryan La
 
 Project: React JS-based weather app
 
